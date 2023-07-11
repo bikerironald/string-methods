@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../github docs/js_temp_literals"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "string  methods"
+	}
+}
